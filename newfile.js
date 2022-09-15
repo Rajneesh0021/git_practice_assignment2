@@ -1,5 +1,5 @@
 //palindrome problem
-let u='naman';
+let u='aman';
 let bag='';
 for(i=u.length-1;i>=0;i--){
    bag=bag+u[i]}
@@ -8,7 +8,7 @@ for(i=u.length-1;i>=0;i--){
 
  //prime number problem
  let flag = 'prime'
-let num =12;
+let num =11;
 for(i=2;i<num;i++){
 if(num%i==0){
 flag='not prime';
